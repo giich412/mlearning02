@@ -1,4 +1,4 @@
-dimport streamlit as st
+import streamlit as st
 
 st.title('Machine Learning App 02')
 
